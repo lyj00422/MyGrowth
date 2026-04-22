@@ -1,0 +1,2 @@
+#这是python作业
+使用knn和lr模型分析marathon的数据
